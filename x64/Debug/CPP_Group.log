@@ -1,0 +1,6 @@
+﻿  Group.cpp
+E:\STEP\FR\CPP_Group\Group.cpp(153,28): warning C4477: 'fscanf' : format string '%d' requires an argument of type 'int *', but variadic argument 3 has type 'unsigned int'
+  main.cpp
+  Person.cpp
+  Generating Code...
+  CPP_Group.vcxproj -> E:\STEP\FR\CPP_Group\x64\Debug\CPP_Group.exe
